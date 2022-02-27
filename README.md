@@ -31,9 +31,11 @@ hi, i'm CRYP70N1C4, a passionate data-ming engineer from China,proficient in str
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
+
 ```text
-No Activity tracked this Week
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
 
 <p><img alt="GitHub metrics" src="https://metrics.lecoq.io/CRYP70N1C4"/> <img alt="Morning" src="https://github.com/CRYP70N1C4/CRYP70N1C4/blob/main/morning.png" width="300"/></p>
